@@ -4,6 +4,6 @@
     https://youtu.be/5uJT9v3oX-g  (in Arabic)
 
 
-# credits:
+# Credits:
     email (Anas):  anaskhedr47@gmail.com 
     email (Ahmed): eng.ahmedorabi94@gmail.com
