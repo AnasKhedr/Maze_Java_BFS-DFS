@@ -9,3 +9,6 @@
     Menna-Allah
     email (Ahmed): eng.ahmedorabi94@gmail.com
     email (Anas):  anaskhedr47@gmail.com 
+
+$ cat .gitattributes
+*.rb linguist-language=Java
